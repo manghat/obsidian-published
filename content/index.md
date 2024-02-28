@@ -1,9 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Home | Writing by Ashwin Manghat
 draft: false
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
-This is the new test.
+This is a black page for now.
